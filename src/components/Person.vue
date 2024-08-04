@@ -1,7 +1,7 @@
 <script>
 import FormComponent from './form/Form.vue'
 import Info from './Info.vue'
-import PictureComponent from './Picture.vue'
+import PictureComponent from './PictureComponent.vue'
 
 export default {
   components: { Info, FormComponent, PictureComponent },
